@@ -42,6 +42,7 @@
 		49C9A25A293B195300D9F49D = {
 			isa = PBXGroup;
 			children = (
+				49C9A27A293B2D4600D9F49D /* README.md */,
 				49C9A265293B195300D9F49D /* TicTacToe */,
 				49C9A264293B195300D9F49D /* Products */,
 			);
@@ -61,7 +62,6 @@
 				49C9A266293B195300D9F49D /* AppDelegate.swift */,
 				49C9A268293B195300D9F49D /* SceneDelegate.swift */,
 				49C9A26A293B195300D9F49D /* ViewController.swift */,
-				49C9A27A293B2D4600D9F49D /* README.md */,
 				49C9A26C293B195300D9F49D /* Main.storyboard */,
 				49C9A26F293B195500D9F49D /* Assets.xcassets */,
 				49C9A271293B195500D9F49D /* LaunchScreen.storyboard */,
