@@ -13,6 +13,7 @@
 		49C9A26E293B195300D9F49D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49C9A26C293B195300D9F49D /* Main.storyboard */; };
 		49C9A270293B195500D9F49D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49C9A26F293B195500D9F49D /* Assets.xcassets */; };
 		49C9A273293B195500D9F49D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49C9A271293B195500D9F49D /* LaunchScreen.storyboard */; };
+		49C9A27B293B2D4600D9F49D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 49C9A27A293B2D4600D9F49D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49C9A26F293B195500D9F49D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49C9A272293B195500D9F49D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49C9A274293B195500D9F49D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49C9A27A293B2D4600D9F49D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				49C9A266293B195300D9F49D /* AppDelegate.swift */,
 				49C9A268293B195300D9F49D /* SceneDelegate.swift */,
 				49C9A26A293B195300D9F49D /* ViewController.swift */,
+				49C9A27A293B2D4600D9F49D /* README.md */,
 				49C9A26C293B195300D9F49D /* Main.storyboard */,
 				49C9A26F293B195500D9F49D /* Assets.xcassets */,
 				49C9A271293B195500D9F49D /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				49C9A273293B195500D9F49D /* LaunchScreen.storyboard in Resources */,
 				49C9A270293B195500D9F49D /* Assets.xcassets in Resources */,
+				49C9A27B293B2D4600D9F49D /* README.md in Resources */,
 				49C9A26E293B195300D9F49D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
